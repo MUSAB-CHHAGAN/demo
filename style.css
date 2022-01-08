@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body {
-  background-color: darkslategrey;
+  background-color: black;
   display: grid;
   justify-content: center;
   align-items: center;
